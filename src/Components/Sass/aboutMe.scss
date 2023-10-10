@@ -1,0 +1,14 @@
+.MyImg {
+    display: flex;
+    justify-content: end;
+
+}
+
+.secondImg {
+    width: 20rem;
+    height: auto;
+    aspect-ratio: 0;
+    border-radius: 60%;
+    object-fit: cover;
+
+}
