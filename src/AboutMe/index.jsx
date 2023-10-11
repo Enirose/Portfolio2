@@ -2,7 +2,7 @@ import { Col, Container, Image, Row } from "react-bootstrap";
 
 export default function AboutMe () {
     return (
-        <Container>
+        <Container id="about">
             <Row>
                 <Col>
                 <h5>Who am I?</h5>

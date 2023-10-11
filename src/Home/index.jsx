@@ -5,22 +5,23 @@ import 'swiper/css'
 import Intro from "../MyIntro";
 import AboutMe from "../AboutMe";
 import ContactMe from "../ContactMe";
+import MyProjects from "../Projects";
 
 
 
 export default function Portfolio () {
     return (
         <div>
-            <Intro/>
-            <div>
-                <SwiperCarousel/>
-                <AboutMe/>
-                <ContactMe/>
+            <Intro />
+            <div id="projects">
+                <MyProjects />
             </div>
-            
-            
-                
-        </div>
-        
+            <div id="about">
+                <AboutMe />
+            </div>
+            <div id="contact">
+                <ContactMe />
+            </div>
+        </div>   
     )
 }

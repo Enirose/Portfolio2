@@ -12,10 +12,7 @@ export default function App () {
     <Router>
       <Navigation/>
       <Routes> 
-        <Route>
-          <Route path="/" element={<Portfolio/>}>
-          </Route>
-        </Route>
+          <Route path="/" element={<Portfolio/>}/>
       </Routes>
       <FooterForm/>
     </Router>

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 export default function Intro() {
     return (
-    <Row className="introContainer">
+    <Row className="introContainer" id="home">
         <Col className="aboutImg">
             <Image className="myImg" src="../../eni1.jpg" alt="Profile Image"/>
         </Col>    
