@@ -4,6 +4,7 @@ import SwiperCarousel from "../Projects";
 import 'swiper/css'
 import Intro from "../MyIntro";
 import AboutMe from "../AboutMe";
+import ContactMe from "../ContactMe";
 
 
 
@@ -11,9 +12,14 @@ export default function Portfolio () {
     return (
         <div>
             <Intro/>
-            <hr />
-            <AboutMe/>
+            <div>
                 <SwiperCarousel/>
+                <AboutMe/>
+                <ContactMe/>
+            </div>
+            
+            
+                
         </div>
         
     )

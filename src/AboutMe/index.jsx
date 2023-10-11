@@ -6,9 +6,9 @@ export default function AboutMe () {
             <Row>
                 <Col>
                 <h5>Who am I?</h5>
-                <h3>About Me</h3>
+                <h3>A few words about me...</h3>
                     <p>
-                      A Front-end Developer student of Noroff School of Technology and Digital Media, who is graduating 10/2023 and on an exciting journey of continuous learning and growth.  
+                      A Front-end Developer student of Noroff School of Technology and Digital Media, who is graduating 10/2023 and on an exciting journey of continuous learning and growth.
                     </p>
                     <h5>Laguages, dev. tools, frameworks and hosting i used: </h5>
                     <p>
