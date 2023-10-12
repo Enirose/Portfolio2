@@ -45,6 +45,17 @@ h1, h2, h5, h3, p {
     --bs-btn-border-color: var(--orange);
 }
 
+.navbar-toggler { 
+    background-color: #fff;
+    border: var(--bs-border-width) solid var(--bs-navbar-toggler-border-color);
+  
+}
+
+.navbar-toggler:hover {
+    background-color:#dfb15b;
+
+
+}
 
 .footer {
     position: fixed;
