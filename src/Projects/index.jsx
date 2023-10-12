@@ -1,12 +1,13 @@
 
 import React from "react";
-import { Container, Row, Card, Button, Image} from "react-bootstrap";
+import { Container, Row, Card, Button, Image, Col} from "react-bootstrap";
 import { Link } from "react-router-dom";
 
 
 export default function MyProjects () {
   return (
       <Row className="allProject" id="projects">
+        <h3 className="d-flex justify-content-center"> My Projects </h3>
         <Card className="CardProjects" style={{ width: '18rem' }}>
           <Card.Img className="card0" variant="top" src="https://github.com/Enirose/holidaze-final_project/assets/95321157/ad220978-c00d-4ded-ae18-9a717210f8b3" alt="Holiday house rental" />
           <Card.Body>
