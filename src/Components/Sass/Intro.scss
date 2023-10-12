@@ -4,24 +4,28 @@
 }
 
 .IntroMsg {
-    padding: 20px 150px 20px 10px;
+    padding: 20px 150px 30px 10px;
+}
+
+svg {
+    margin: 5px;
+}
+
+.IntroMsg-link:hover {
+    fill: #dfb15b;
 }
 
 .IntroMsg p {
     align-self: flex-end;
-    margin-bottom: 2rem;
-    border: 20px;
-    padding: 1rem;
-    box-shadow: 1px 1px 25px rgb(128, 128, 75);
-    border: solid 1px blac;
+    margin-bottom: 1rem;
     color: #fff;
-    text-align: center;
+    // text-align: ;
 }
-.IntroMsg h1 {
-    color: #fff;
-    margin: 20px 0px;
+// .IntroMsg h1 {
+//     color: --orange;
+//     margin: 20px 0px;
    
-}
+// }
 
 h4 {
     margin-top: 20px;

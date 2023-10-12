@@ -20,13 +20,11 @@
 }
 
 .border:hover {
-    border: 1px solid #fff;
+    border: 1px solid $primary;
 }
 
 .card {
-    height: 379px;
-    width: 300px;
-    background: #808080;
+    // width: 300px;
     border-radius: 10px;
     transition: background 0.8s;
     overflow: hidden;
@@ -57,6 +55,20 @@
 
 .card0:hover .fab {
     opacity: 1;
+}
+
+img.global {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    margin: 5px;
+    aspect-ratio: 0;
+    border-radius: 60%;
+    object-fit: cover;
+}
+
+img.global:hover {
+    background-color: #dfb15b;
 }
 
 h2 {
