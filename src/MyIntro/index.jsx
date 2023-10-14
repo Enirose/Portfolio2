@@ -5,7 +5,7 @@ export default function Intro() {
     return (
     <Row className="introContainer" id="home">
         <Col className="aboutImg">
-            <Image className="myImg" src="../../eni1.jpg" alt="Profile Image"/>
+            <Image className="myImg" src="../../eniPortfolio.jpg" alt="Profile Image"/>
         </Col>    
         <Col className="IntroMsg">
             <h4>
