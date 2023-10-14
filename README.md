@@ -13,7 +13,7 @@ My Portfolio website, where i am showcasing the projects i made, tools, language
 
 ## Clone the project
 
-[Git Clone Holidaze here](https://github.com/Enirose/holidaze-final_project)
+[Git Portfolio](https://github.com/Enirose/Portfolio2.git)
 
 ## Install Dependencies
 ```ruby
