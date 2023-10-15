@@ -1,4 +1,4 @@
-![image](https://github.com/Enirose/Portfolio2/assets/95321157/b44ef035-aaea-490c-82b8-56392d015de4)
+![image](https://github.com/Enirose/Portfolio2/assets/95321157/6d56101e-e8c0-463d-b444-9bcab0c48ec1)
 
 ## Live site
 [Portfolio](https://enirosehellum.netlify.app/)
