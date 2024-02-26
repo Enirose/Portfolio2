@@ -66,3 +66,7 @@ h1, h2, h5, h3, p {
 .footer-span {
     color: #dfb15b;
 }
+
+.row {
+    --bs-gutter-x: none;
+}
