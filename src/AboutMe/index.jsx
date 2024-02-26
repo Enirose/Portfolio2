@@ -9,7 +9,10 @@ export default function AboutMe () {
                 <h5>Who am I?</h5>
                 <h3>A few words about me...</h3>
                     <p>
-                      A Front-end Developer student of Noroff School of Technology and Digital Media, who is graduating 10/2023 and on an exciting journey of continuous learning and growth. 
+                        Hey there!!!
+                    </p>
+                    <p>
+                        I'm Ma(Maria) Enirose Hellum and I recently graduated as Front-end Developer at Noroff School of Technology and Digital Media. I studied front-end out of curiosity of how to build a website since i want to have my own e-commerce website at that time. After that, the rest is a history and here i am wanted to take up more challenging experience.
                     </p>
                     <h5>Laguages, dev. tools, frameworks and hosting i used: </h5>
                     <p>
